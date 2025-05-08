@@ -9,6 +9,8 @@
 
 
 
-
+<br>
+<a href="index.php">Generate Again</a><br>
+<a href="index.php">Back to Home</a>
 </body>
 </html>
