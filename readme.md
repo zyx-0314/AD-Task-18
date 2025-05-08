@@ -46,6 +46,9 @@
       </ol>
     </li>
     <li>
+      <a href="#file-structure">File Structure</a>
+    </li>
+    <li>
       <a href="#resources">Resources</a>
     </li>
   </ol>
@@ -79,23 +82,7 @@ The Gym Day Generator is a simple PHP-based web project that introduces users to
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
-## Rules, Practices and Principles
-
-<!-- Do not Change this -->
-
-1. Always use `AD-` in the front of the Title of the Project for the Subject followed by your custom naming.
-2. Do not rename `.php` files if they are pages; always use `index.php` as the filename.
-3. Add `.component` to the `.php` files if they are components code; example: `footer.component.php`.
-4. Add `.util` to the `.php` files if they are utility codes; example: `account.util.php`.
-5. Place Files in their respective folders.
-6. Different file naming Cases
-   | Naming Case | Type of code         | Example                           |
-   | ----------- | -------------------- | --------------------------------- |
-   | Pascal      | Utility              | Accoun.util.php                   |
-   | Camel       | Components and Pages | index.php or footer.component.php |
-8. Renaming of Pages folder names are a must, and relates to what it is doing or data it holding.
-9. Use proper label in your github commits: `feat`, `fix`, `refactor` and `docs`
-10. File Structure to follow below.
+## File Structure
 
 ```
 AD-Task-1
@@ -103,19 +90,15 @@ AD-Task-1
 |   └─ css
 |   |   └─ example.css
 |   └─ img
-|   |   └─ 1.png
-|   |   └─ 3.png
-|   |   └─ 777 flag.png
-|   └─ js
-|       └─ name.js
+|       └─ 1.png
+|       └─ 3.png
+|       └─ 777 flag.png
 └─ page
 |  └─ assets
 |     └─ css
 |     |  └─ example.css
 |     └─ img
 |     |  └─ bg.png
-|     └─ js
-|     |  └─ name.js
 |     └─ index.php
 └─ index.php
 └─ readme.md
@@ -130,5 +113,5 @@ AD-Task-1
 | ------------ | ----------------------------------------------- | ------------- |
 | FreePik      | For images idea, video idea, and template idea. | freepik.com   |
 | ChatGPT      | For learning code logic using PHP.              | chatgpt.com   |
-| W3Schools    | Learn more about PHP.                           | w3schools.com |
+| W3Schools    | For learning more about PHP.                           | w3schools.com |
 
