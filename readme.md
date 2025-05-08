@@ -108,8 +108,6 @@ AD-Task-1
 |   |   └─ 777 flag.png
 |   └─ js
 |       └─ name.js
-└─ components
-|   └─ name.component.php
 └─ page
 |  └─ assets
 |     └─ css
@@ -117,10 +115,8 @@ AD-Task-1
 |     └─ img
 |     |  └─ bg.png
 |     └─ js
-|        └─ name.js
+|     |  └─ name.js
 |     └─ index.php
-└─ utils
-|   └─ Name.utils.php
 └─ index.php
 └─ readme.md
 ```
