@@ -112,7 +112,7 @@ Description of the project in details.
 10. File Structure to follow below.
 
 ```
-AD-ProjectName
+AD-Task-1
 └─ assets
 |   └─ css
 |   |   └─ name.css
@@ -143,9 +143,9 @@ AD-ProjectName
 
 <!-- TODO: Add References -->
 
-| Title        | Purpose                                                                       | Link          |
-| ------------ | ----------------------------------------------------------------------------- | ------------- |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Title        | Purpose                                         | Link          |
+| ------------ | ----------------------------------------------- | ------------- |
+| FreePik      | For images idea, video idea, and template idea. | freepik.com   |
+| ChatGPT      | For learning code logic using PHP.              | chatgpt.com   |
+| W3Schools    | Learn more about PHP.                           | w3schools.com |
+
