@@ -60,9 +60,20 @@ a:hover {
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.05);
     }
 
-    .welcome-img {
+.welcome-img {
     width: 450px;
     height: auto;
     border-radius: 10px;
     margin-right: 20px;
     }
+
+.welcome-text {
+    text-align: center;
+    }
+
+.welcome-text h2 {
+    margin-top: 0;
+    color: #1e88e5;
+    font-size:xx-large ;
+    }
+
