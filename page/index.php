@@ -15,7 +15,7 @@ $num = rand(1, 3);
 if ($num == 1) {
 echo "<p>Today is <strong>Chest Day</strong>! Do Bench Press, Machine press, and Chest cable curl NOW.</p>";
 } elseif ($num == 2) {
-echo "<p>Today is <strong>Leg Day</strong>! Do Squats, Hamsting curl, and Calf raises NOW.</p>";
+echo "<p>Today is <strong>Leg Day</strong>! Do Squats, Hamstring curl, and Calf raises NOW.</p>";
 } else {
 echo "<p>Today is <strong>Rest Day</strong>! Just stretch and don't stress.</p>";
 }
